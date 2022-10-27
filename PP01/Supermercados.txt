@@ -1,0 +1,7 @@
+Lider,L01,La Serena,Regimiento Arica #6145,
+Lider,L02,Coquimbo,Avda. El Amanecer #1401,
+Lider,L03,Coquimbo,Ruta 43 Lote #59,
+Jumbo,J01,La Serena,Av Guillermo Ulriksen #1630,
+Jumbo,J02,La Serena,Av. El Santo #1726,
+Tottus,T01,Coquimbo,Alessandri #1150,
+Tottus,T02,La Serena,Alberto Solari #1400,
